@@ -1,0 +1,97 @@
+.color1 {
+  height: 100px;
+  padding-top: 30px;
+  padding-left: 100px !important;
+  font-size: 18px;
+}
+.color2 {
+  color: #2b2b2b;
+  height: 100px;
+  padding: 20px;
+}
+.color3 {
+  height: 100px;
+}
+.color4 {
+  height: 700px;
+}
+.color5 {
+  height: 700px;
+}
+.color6 {
+  height: 700px;
+  z-index: 2;
+}
+.img {
+  padding-right: 80px;
+}
+.icon1 {
+  padding-left: 400px;
+  padding-top: 10px;
+  color: #2b2b2b;
+  position: relative;
+}
+.checked {
+  color: black;
+}
+.text {
+  color: #2b2b2b;
+  font-size: 90px !important;
+  font-weight: bold;
+}
+.desciption {
+  color: #2b2b2b;
+  font-size: 18px;
+  font-style: oblique;
+  padding-top: 20px;
+}
+.price {
+  color: #2b2b2b;
+  font-size: 32px;
+  padding-top: 50px;
+}
+.heart {
+  background-color: #e8e8e8;
+  padding: 8px;
+  color: #2b2b2b;
+  border-radius: 30px;
+  border: #e8e8e8;
+}
+.cart {
+  border-radius: 30px;
+  padding: 7px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: #e8e8e8;
+  background-color: #2b2b2b;
+}
+.hc {
+  padding: 10px;
+}
+.img2 {
+  height: 300px;
+  width: 350px;
+  padding-right: 50px;
+  padding-top: 35px;
+}
+.off {
+  border-radius: 30px;
+  color: #2b2b2b;
+  background-color: #e8e8e8;
+}
+.color7 {
+  height: 150px;
+}
+.color8 {
+  height: 150px;
+}
+.color9 {
+  height: 150px;
+}
+.blogo {
+  height: 120px;
+  width: 250px;
+  position: relative;
+  padding-left: 100px;
+  padding-right: 1px;
+}
